@@ -1,0 +1,12 @@
+def feminicide(women_rights, inequality, violence, murder):
+    while inequality == True :
+        print("Unfair system for girls and women*")
+        if inequality >= women_rights and violence >= women_rights:
+            return murder
+        print("Feminicide: is the killing of women because of their sex and/or gender.", +
+            "It constitutes the most extreme form of violence against women and", +
+                  "the most violent manifestation of discrimination against women and", +
+                  "their inequality (A/71/398).")
+
+
+#Special Rapporteur on violence against women - UN (2016) https://undocs.org/A/71/398
